@@ -1,6 +1,6 @@
 # LeetCode
 Řešení úloh z LeetCode.com
-https://leetcode.com/u/killpet/
+https://leetcode.com/u/PetrReznicekml/
 
 1. Two Sum
 
